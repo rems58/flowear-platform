@@ -7,6 +7,8 @@ leur propre IA en libre-service.
 
 🔗 **En production : [flowear.app](https://flowear.app)**
 
+![Flowear Studio](docs/captures/flowear-studio.png)
+
 > Dépôt vitrine : copie du code de production, sans la documentation interne (stratégie,
 > exploitation). Conçu, développé et mis en production seul.
 
@@ -68,6 +70,12 @@ Le serveur refuse de démarrer avec des clés `live` hors de l'environnement de 
 - Affiliation, statistiques partagées par lien signé
 - PWA installable par IA (icônes générées depuis la marque), notifications push
 - Pages légales, purge automatique des données à 30 jours
+
+## Captures
+
+| Hub des IA | Studio créateurs |
+|---|---|
+| ![Hub](docs/captures/flowear-accueil.png) | ![Studio](docs/captures/flowear-studio.png) |
 
 ## Structure
 
