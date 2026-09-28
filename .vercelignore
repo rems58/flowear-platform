@@ -1,0 +1,12 @@
+# Jamais envoyé chez Vercel : les secrets vivent dans les variables du projet.
+.env
+.env.*
+
+# Inutile au build : allège l'envoi et réduit la surface.
+docs/
+tests/
+supabase/
+scripts/
+vitest.config.mts
+*.md
+!README.md
